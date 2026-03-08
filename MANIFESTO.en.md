@@ -1,3 +1,5 @@
+> This file contains the full manifesto text. For the project overview and language switcher, see [README.md](README.md).
+
 # Sweet Girl Party Manifesto
 
 ## Preface
